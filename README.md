@@ -36,7 +36,6 @@
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KwunNChen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=KwunNChen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
