@@ -9,17 +9,17 @@
 ## 🙋 About Me
 
 - 🎓 Data Science sophomore at **UC Berkeley**
-- 🤖 Exploring **machine learning** — models, math, and everything in between
-- 🌱 Currently building things in **Java** and **Python** (yes, including a tile-engine world generator)
+- 🤖 Exploring **machine learning**;  models, math, and everything in between
+- 🌱 Currently building things in **Java** and **Python** 
 - 💬 Ask me about data structures, ML, or web dev
-- 📫 Reach me at **PBchenchen@gmail.com**
+- 📫 Reach me at **PBchenchen@gmail.com** or **datasciduud@berkeley.edu**
 - 👀 ooooooh you want to give me an internship ooooooooh
 
 ## 🛠️ What I Do
 
-- 📊 **Data science coursework & projects** — data structures, algorithms, and a procedurally generated tile-engine game
-- 🧪 **ML experiments** — learning the fundamentals and putting them into practice
-- 🌐 **Web development** — building sites with JavaScript/TypeScript and React
+- 📊 **Data science coursework & projects** -> data structures, algorithms, and a procedurally generated tile-engine game
+- 🧪 **ML experiments** -> learning the fundamentals and putting them into practice
+- 🌐 **Web development** -> building sites with embedded AIs utilizing JavaScript/TypeScript, and React
 
 ## 🧰 Tech Stack
 
@@ -35,12 +35,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KwunNChen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=KwunNChen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=KwunNChen&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=KwunNChen&theme=tokyonight&no-frame=true&column=7&margin-w=8&rank=-C,-%3F" alt="GitHub trophies" />
 
 </div>
 
@@ -62,6 +62,6 @@
 
 <a href="https://github.com/KwunNChen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:PBchenchen@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/kwunchen26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
