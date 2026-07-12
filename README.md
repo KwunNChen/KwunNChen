@@ -8,24 +8,29 @@
 
 ## 🙋 About Me
 
-- 🎓 Data Science sophomore at **UC Berkeley**
-- 🤖 Exploring **machine learning**;  models, math, and everything in between
-- 🌱 Currently building things in **Java** and **Python** 
-- 💬 Ask me about data structures, ML, or web dev
-- 📫 Reach me at **PBchenchen@gmail.com** or **datasciduud@berkeley.edu**
-- 👀 ooooooh you want to give me an internship ooooooooh
+- Data Science sophomore at **UC Berkeley**
+- Exploring **machine learning**;  models, math, and everything in between
+- Currently building things in **Java** and **Python** 
+- Ask me about data science, ML, or web dev
+- Reach me at **PBchenchen@gmail.com** or **datasciduud@berkeley.edu**
+
+ooooooh you want to give me an internship ooooooooh
 
 ## 🛠️ What I Do
 
-- 📊 **Data science coursework & projects** -> data structures, algorithms, and a procedurally generated tile-engine game
-- 🧪 **ML experiments** -> learning the fundamentals and putting them into practice
-- 🌐 **Web development** -> building sites with embedded AIs utilizing JavaScript/TypeScript, and React
+- **Data science coursework & projects** -> data structures, algorithms, and other small projects
+
+- **ML experiments** -> learning the fundamentals and putting them into practice
+
+- **Web development** -> building sites with embedded AIs utilizing JavaScript/TypeScript, and React
+
+- **Contractor** -> spent this Summer at MAJCOM Air Combat Command engineering pipelines
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react" alt="Languages and frameworks" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,html,css,react" alt="Languages and frameworks" /></a>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools" /></a>
 
@@ -35,7 +40,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&commits_year=2026" alt="GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=KwunNChen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
