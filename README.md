@@ -19,11 +19,8 @@ ooooooh you want to give me an internship ooooooooh
 ## 🛠️ What I Do
 
 - **Data science coursework & projects** -> data structures, algorithms, and other small projects
-
 - **ML experiments** -> learning the fundamentals and putting them into practice
-
 - **Web development** -> building sites with embedded AIs utilizing JavaScript/TypeScript, and React
-
 - **Contractor** -> spent this Summer at MAJCOM Air Combat Command engineering pipelines
 
 ## 🧰 Tech Stack
