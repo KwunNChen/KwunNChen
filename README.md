@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+📊;Data+Engineering+🛠️;Data+Analytics+📈;Open-Source+Dev+💻;Exploring+ML+🤖" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+📊;Data+Engineering+🛠️;Data+Analytics+📈;Open-Source+Dev+💻;Exploring+ML+🤖" alt="Typing intro" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=KwunNChen&color=58A6FF&style=flat" alt="Profile views" />
 
 </div>
+
 
 ## 🙋 About Me
 
