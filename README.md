@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eric+Chen+%F0%9F%91%8B;Data+Science+%40+UC+Berkeley;ML+Enthusiast+%F0%9F%A4%96" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science;Data+Engineering;Data+Analytics;Open-Source+Dev;Exploring+ML" alt="Typing intro" />
 
 <img src="https://komarev.com/ghpvc/?username=KwunNChen&color=58A6FF&style=flat" alt="Profile views" />
 
