@@ -20,8 +20,8 @@
 
 - **Roblox Open-Source Developer** -> Open-Source my Roblox projects that would otherwise be sold for Robux, but I'm a good person!!!
 - **Data science coursework & projects** -> data sci, algorithms, and other small projects
-- **ML experiments** -> learning the fundamentals and putting them into practice
-- **Web development** -> building sites with embedded AIs utilizing JavaScript/TypeScript, and React
+- **ML experiments** -> implementation of varying ML algorithms, my fav will always be decision trees!
+- **Web development** -> building sites using varying languages
 - **Contractor** -> spent this Summer at MAJCOM Air Combat Command engineering pipelines
 
 ## 🧰 Tech Stack
