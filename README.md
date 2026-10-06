@@ -40,7 +40,7 @@
 
 <img height="165" src="https://kwun-stats-knc-s-projects.vercel.app/api?username=KwunNChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&commits_year=2026&cache_bust=1" alt="GitHub stats" />
 
-<img src="https://kwun-insights-knc-s-projects.vercel.app/api/insight?username=KwunNChen&theme=tokyonight&streak=true&stats=false&languages=false&graph=false&header=false&summary=false&profile=false" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=KwunNChen&theme=tokyonight&hide_border=true&cache_bust=5" alt="GitHub streak" />
 
 <img src="https://kwun-trophy-knc-s-projects.vercel.app/?username=KwunNChen&theme=tokyonight&no-frame=true&column=7&margin-w=8&rank=-C,-%3F" alt="GitHub trophies" />
 
