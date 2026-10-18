@@ -58,5 +58,5 @@
 
 </div>
 
-#### There is no LinkedIn, nor Gmail hyperlink any more due to me hosting my Open-Source projects (KORBLOX builds) on this Github account. As a result, connect with me via discord (@pb6008), or through wherever you found me from (Resume, Youtube, etc.)
+#### https://kwunchen.com/
 </div>
