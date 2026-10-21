@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%F0%9F%93%8A;Data+Engineering+%F0%9F%9B%A0%EF%B8%8F;Data+Analytics+%F0%9F%93%88;Open-Source+Dev+%F0%9F%92%BB;Exploring+ML+%F0%9F%A4%96" alt="Typing intro" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=KwunNChen&color=58A6FF&style=flat&cache_bust=1" alt="Profile views" />
-
 </div>
 
 ## 🙋 About Me
